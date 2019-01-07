@@ -1,0 +1,4 @@
+35 105 175 245 315
+data/Equidistantes/35_105_175_245_315_DDM_BLADDER.dat
+data/Equidistantes/35_105_175_245_315_DDM_RECTUM.dat
+data/Equidistantes/35_105_175_245_315_DDM_PTVHD.dat

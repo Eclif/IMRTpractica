@@ -1,0 +1,4 @@
+0 70 140 210 280
+data/Equidistantes/0_70_140_210_280_DDM_BLADDER.dat
+data/Equidistantes/0_70_140_210_280_DDM_RECTUM.dat
+data/Equidistantes/0_70_140_210_280_DDM_PTVHD.dat

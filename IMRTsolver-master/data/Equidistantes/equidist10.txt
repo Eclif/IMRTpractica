@@ -1,0 +1,4 @@
+50 120 190 260 330
+data/Equidistantes/50_120_190_260_330_DDM_BLADDER.dat
+data/Equidistantes/50_120_190_260_330_DDM_RECTUM.dat
+data/Equidistantes/50_120_190_260_330_DDM_PTVHD.dat

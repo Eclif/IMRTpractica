@@ -1,0 +1,4 @@
+20 90 160 230 300
+data/Equidistantes/20_90_160_230_300_DDM_BLADDER.dat
+data/Equidistantes/20_90_160_230_300_DDM_RECTUM.dat
+data/Equidistantes/20_90_160_230_300_DDM_PTVHD.dat

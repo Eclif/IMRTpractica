@@ -1,0 +1,4 @@
+10 80 150 220 290
+data/Equidistantes/10_80_150_220_290_DDM_BLADDER.dat
+data/Equidistantes/10_80_150_220_290_DDM_RECTUM.dat
+data/Equidistantes/10_80_150_220_290_DDM_PTVHD.dat
